@@ -5,6 +5,7 @@ Using face dataset from sualab(https://drive.google.com/file/d/1qV4YSzvvTQ7rSi3i
 
 
 Before NMS
+
 ![NotNMS1](not_nms1.png)
 
 
@@ -16,6 +17,7 @@ Before NMS
 
 
 After NMS
+
 ![NMS1](nms1.png)
 
 
