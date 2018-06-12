@@ -21,7 +21,7 @@ After NMS
 ![NMS1](nms1.png)
 
 
-![NMS2](nms1.png)
+![NMS2](nms2.png)
 
 
-![NMS3](nms1.png)
+![NMS3](nms3.png)
