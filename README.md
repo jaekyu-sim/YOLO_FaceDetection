@@ -1,5 +1,5 @@
-# YOLOv2
-YOLOv2 for face detecting
+# YOLO
+YOLO for face detecting
 
 Using face dataset from sualab(https://drive.google.com/file/d/1qV4YSzvvTQ7rSi3iS2swkbA56QO-bbs8/view)
 
